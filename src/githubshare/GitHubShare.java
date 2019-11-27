@@ -18,6 +18,12 @@ public class GitHubShare {
         System.out.println("Team work");
         System.out.println("geia xara");
         System.out.println(" ola kala ");
+        int[] ar = new int[100];
+    for (int i=0; i<=ar.length; i++){
+        System.out.println(ar[i]);
+    }
     }
     
+  
+     
 }
